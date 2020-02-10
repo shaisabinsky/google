@@ -1,0 +1,49 @@
+.header{
+    position: fixed;
+    font-size: 38px;
+    font-stretch: ultra-expanded;
+    background-color: white;
+}
+
+.img {
+    float: left;
+    margin: 0 0 1em 1em;
+    padding: 20px;
+    white-space: nowrap;
+  }
+
+.flrt {
+    text-align: left;
+    padding: 250px;
+}
+
+.footer {
+   float: left;
+   font-size: 75px;
+}
+
+.footerimg {
+    width: 600px;
+    height: 300px;
+
+}
+
+.ptext {
+    font-size: 25px;
+}
+
+.inblock {
+    display: inline block;
+}
+
+.footerb {
+    color: white;
+    background-color: black;
+    width: 1880px;
+    height: 500px;
+}
+
+
+
+
+

@@ -1,0 +1,55 @@
+body {
+    background-image: url(https://simplefreethemes.com/wp-content/uploads/2017/04/Beautiful-Norway.jpg);
+    background-size: 1920px 1080px ;
+}
+
+#main {
+    width: 600px;
+    margin: 0 auto; 
+    display: -webkit-box; 
+    
+  }
+
+.fixed {
+    text-align: right;
+}
+
+.fancy {
+    text-align: right;
+    margin: 0 auto;
+}
+
+.center {
+    width: 400px;
+    margin: 0 auto;
+    display: -webkit-box;
+    height: 25px;
+
+}
+
+.shortcut {
+    
+    width: 75px;
+    height: 75px;
+    margin: 0 auto;
+    display: -webkit-box;
+    
+}
+
+.column {
+    float: left;
+    width: 66.66%;
+    padding: 28px;
+  }
+
+.midcol {
+  flex: 33.33%;
+  padding: 5px;
+    
+    
+}
+
+.row {
+    display: flex;
+  }
+
